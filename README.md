@@ -23,6 +23,7 @@ This is the root repository for Olivia Pinney's Data Vizualization portfolio thr
 
 ## Credit
 Credit goes to Tiffany France for designing and teaching this course.
+See original course materials [here](https://github.com/tiffanyfrance/CAPP30239_FA22)
 
 ## License 
 CC0 1.0 Universal
